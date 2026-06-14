@@ -1,0 +1,26 @@
+## Introduction to Seaborn:
+
+Seaborn is a high-level Python visualization library built on top of Matplotlib. It provides aesthetically pleasing default styles and simplifies the creation of statistical graphics.
+
+# Features of Seaborn:
+
+1. Attractive and professional visual themes.
+2. Simplified syntax compared to Matplotlib.
+3. Built-in support for statistical visualizations.
+4. Easy integration with Pandas DataFrames.
+5. Advanced plotting capabilities with minimal code.
+
+# Common Plots in Seaborn:
+
+~Scatter Plot
+~Line Plot
+~Bar Plot
+~Count Plot
+~Histogram
+~KDE Plot
+~Box Plot
+~Violin Plot
+~Heatmap
+~Pair Plot
+~Joint Plot
+~Regression Plot
