@@ -1,0 +1,23 @@
+Introduction to Matplotlib
+
+Matplotlib is one of the most widely used data visualization libraries in Python. It provides extensive control over chart customization and serves as the foundation for many other visualization libraries.
+
+Features of Matplotlib
+
+1. Highly customizable plots.
+2. Supports a wide variety of chart types.
+3. Suitable for both simple and advanced visualizations.
+4. Integrates seamlessly with NumPy and Pandas.
+5. Ideal for publication-quality figures.
+
+# Common Plots in Matplotlib
+
+~Line Plot
+~Bar Chart
+~Histogram
+~Pie Chart
+~Scatter Plot
+~Area Plot
+~Step Plot
+~Stem Plot
+~3D Plot
